@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ninecrowns:item/op_spear"
+  },
+  "display": {
+    "ground": {
+      "scale": [
+        1.08,
+        1.08,
+        1.08
+      ]
+    },
+    "fixed": {
+      "scale": [
+        1.08,
+        1.08,
+        1.08
+      ]
+    }
+  }
+}
